@@ -1,4 +1,10 @@
-# AngularTODOApp
+# Angular TODO List App
+This a Todo List App in Angular displaying the tasks from jsonplaceholder.typicode.com website.
+
+**You can perform actions like:**
+- Add
+- Delete
+- Strike Out
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
